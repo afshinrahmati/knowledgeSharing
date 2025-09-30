@@ -1,0 +1,25 @@
+{
+  "name": "knowledgesharing",
+  "version": "1.0.0",
+  "description": "This repository is designed for sharing knowledge, information, and resources among team members in a structured and collaborative way.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afshinrahmati/knowledgeSharing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afshinrahmati/knowledgeSharing/issues"
+  },
+  "homepage": "https://github.com/afshinrahmati/knowledgeSharing#readme",
+  "dependencies": {
+    "@marp-team/marp-cli": "^4.2.3",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
